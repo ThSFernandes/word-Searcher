@@ -2,7 +2,7 @@
 
 <div align="center">
 	<a href="#about">Sobre</a> |
-	<a href="#demo">Demo</a> |
+	<a href="#demo">Demonstração</a> |
 	<a href="#installation">Como executar</a> |
 	<a href="#technologie">Tecnologia</a> |
 	<a href="#licence">Licença</a> |

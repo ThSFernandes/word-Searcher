@@ -23,7 +23,7 @@ Este projeto é um buscador de palavras em textos que utiliza uma estrutura de T
 
 Este projeto foi desenvolvido usando a seguinte tecnologia:
 
-✔ [JAVA](https://www.coursera.org/learn/orientacao-a-objetos-com-java)
+[ <img align="center"   height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />](https://www.coursera.org/learn/orientacao-a-objetos-com-java)
 
 ---
 <h2 id="installation">🚀&nbsp; Como executar o projeto</h2>

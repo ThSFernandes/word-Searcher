@@ -13,7 +13,7 @@
 Este projeto é um buscador de palavras em textos que utiliza uma estrutura de Tabela Hash para armazenar e gerenciar as ocorrências das palavras nos textos. Desenvolvido como parte da disciplina de Algoritmos e Estrutura de Dados II, esta aplicação em Java permite a análise eficiente de grandes volumes de textos em busca de palavras específicas e suas respectivas ocorrências.
 
 ---
-<h2 id="demo">:camera_flash:&nbsp; Demo</h2>
+<h2 id="demo">:camera_flash:&nbsp; Demonstração</h2>
 
 ![apresentação](https://github.com/ThSFernandes/word-Searcher/assets/112223120/70c646e4-f8b2-4bc6-bcbd-7ebfb28ecf29)
 

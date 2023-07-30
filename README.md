@@ -15,5 +15,9 @@ Este projeto é um buscador de palavras em textos que utiliza uma estrutura de T
 ---
 <h2 id="demo">:camera_flash:&nbsp; Demo</h2>
 
+![apresentação](https://github.com/ThSFernandes/word-Searcher/assets/112223120/70c646e4-f8b2-4bc6-bcbd-7ebfb28ecf29)
+
+-----
+
 
 

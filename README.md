@@ -1,4 +1,4 @@
-<h1 align="center"> Buscador de Palavras em Textos utilizando Tabela Hash) </h1>
+<h1 align="center"> Buscador de Palavras em Textos utilizando Tabela Hash </h1>
 
 <div align="center">
 	<a href="#about">Sobre</a> |

@@ -29,7 +29,6 @@ Este projeto foi desenvolvido usando a seguinte tecnologia:
 <h2 id="installation">🚀&nbsp; Como executar o projeto</h2>
 
 ```bash
-# cd "Nome da pasta que deseja clonar o projeto"
 # Clonar repositório
 git clone https://github.com/ThSFernandes/word-Searcher.git
 ```
